@@ -28,11 +28,11 @@ const FooterMain = () => {
         <div className='sm:w-1/6'>
           <h1 className='text-white pb-3 font-semibold'>Company</h1>
           <ul>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>About Us</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Blog</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Contact Us</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Pricing</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Testimonials</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>About Us</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Blog</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Contact Us</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Pricing</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Testimonials</li>
           </ul>
         </div>
 

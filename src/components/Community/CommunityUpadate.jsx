@@ -23,17 +23,17 @@ const cards = [
 
 const ImageCardList = () => {
   return (
-    <div className="flex flex-col md:flex-row justify-center items-start gap-6 p-4 md:p-6 mb-16">
+    <div className="flex flex-col md:flex-row justify-center items-start p-4 md:p-6 mb-16">
       {cards.map(({ id, imgSrc, description }) => (
         <div
           key={id}
-          className="relative w-full max-w-[256.15px] bg-white rounded-lg shadow-md overflow-visible mx-auto"
+          className="relative w-full max-w-[256.15px] bg-white rounded-lg shadow-md overflow-visible mx-6"
         >
           {/* Image */}
           <img
             src={imgSrc}
             alt={`card-${id}`}
-            className="w-full h-auto md:h-[199.08px] opacity-100 rounded-[5.57px]"
+            className="md:h-[199.08px] opacity-100 rounded-[5.57px]"
           />
 
           {/* Card overlay */}

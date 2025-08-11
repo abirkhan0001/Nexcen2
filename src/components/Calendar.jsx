@@ -16,7 +16,7 @@ const Calendar = () => {
         <h1 className="text-[#4D4D4D] leading-[30px] font-semibold text-[25px]">
           How to design your site footer like<br /> we did
         </h1>
-        <p className="text-[#717171] text-[12px] mt-4 leading-[18px]">
+        <p className="text-[#4D4D4D] text-[12px] mt-4 leading-[18px]">
           Donec a eros justo. Fusce egestas tristique ultrices. Nam tempor, augue nec<br /> tincidunt
           molestie, massa nunc varius arcu, at scelerisque elit erat a magna. Donec<br /> quis erat at
           libero ultrices mollis. In hac habitasse platea dictumst. Vivamus<br /> vehicula leo dui, at porta
