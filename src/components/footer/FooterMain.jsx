@@ -39,11 +39,11 @@ const FooterMain = () => {
         <div className='sm:w-1/6'>
           <h1 className='text-white pb-3 font-semibold'>Support</h1>
           <ul>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Help Center</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Terms of Service</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Legal</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Privacy Policy</li>
-            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer hover:text-[#4CAF4F]'>Status</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Help Center</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Terms of Service</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Legal</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Privacy Policy</li>
+            <li className='text-[#F5F7FA] text-[11px] py-1 cursor-pointer font-bold hover:text-[#4CAF4F]'>Status</li>
           </ul>
         </div>
 
